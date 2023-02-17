@@ -17,12 +17,20 @@ Cracked Jitbit Macro Recorder: [Click Here](https://getintopc.com/softwares/util
 
 ### Step 2: 
 - File Open BunkerAutomation.mcr
-
-
-![2T1 Settings](./images/menusettings.png)
+- Highlight
+#
+![Jitbit](./images/Jitbit.png)
+#
+### Step 3:
+- Then proceed to enable the following.
+#
+![settings](./images/Jitbit.png)
 
 ### Step 4: 
-Launch AutoHotKey WindowSpy
+- Enter: 10000 times This will make it so it loops 10k times.
+#
+![Jitbit](./images/Playx.png)
+#
 
 ![windowspy icon](./images/windowspy.png)
 
