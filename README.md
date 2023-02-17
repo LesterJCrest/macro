@@ -22,11 +22,17 @@ Cracked Jitbit Macro Recorder: [Click Here](https://getintopc.com/softwares/util
 ![Jitbit](./images/Jitbit.png)
 #
 ### Step 3:
-- Then proceed to enable the following.
+- Then proceed to enable the following in Game settings.
 #
-![settings](./images/Jitbit.png)
+![settings](./images/yes.png)
+#
+### Step 4:
+- Then enable the following settings for master unlocker.
+#
+![settings](./images/yes.png)
+#
 
-### Step 4: 
+### Step 5: 
 - Enter: 10000 times This will make it so it loops 10k times.
 #
 ![Jitbit](./images/Playx.png)
