@@ -1,5 +1,5 @@
 # Bunker Automation Macro
-Automation script for 2T1 Master Unlocker The Bunker Version
+Automation script for 2T1 Master Unlocker.
 
 ## Program Used
 - Jitbit Macro Recorder
