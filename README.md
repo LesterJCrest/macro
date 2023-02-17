@@ -45,10 +45,8 @@ Cracked Jitbit Macro Recorder: [Click Here](https://getintopc.com/softwares/util
 ### Step 7:
 - Now Goto in game press Ctrl+P don't move your mouse and watch the magic.
 #
-![hover](./images/yayayya.png)
+![hover](./images/22222.png)
 #
-
-
 ### Final Results
 - If done correctly you will see the following
 #
