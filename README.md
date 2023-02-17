@@ -29,7 +29,7 @@ Cracked Jitbit Macro Recorder: [Click Here](https://getintopc.com/softwares/util
 ### Step 4:
 - Then enable the following settings for master unlocker.
 #
-![settings](./images/yes.png)
+![settings](./images/Step3.png)
 #
 
 ### Step 5: 
