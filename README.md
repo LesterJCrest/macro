@@ -28,19 +28,14 @@ Cracked Jitbit Macro Recorder: [Click Here](https://getintopc.com/softwares/util
 #
 ### Step 4:
 - Then enable the following settings for master unlocker.
+- Then switch the session it's best to do this in a solo or invite only session.
 #
 ![settings](./images/Step3.png)
 #
-
 ### Step 5: 
 - Enter: 10000 times This will make it so it loops 10k times.
 #
 ![Jitbit](./images/Playx.png)
 #
-
-![windowspy icon](./images/windowspy.png)
-
-### Step 5: 
-Find the <b>"Sell Stock"</b> Box in the Bunker Manager app and take note of the Window Position 
-
-<b>This can be any RED Pixel. (505, 632 By Default)</b> 
+### Final Steps: 
+- 
